@@ -1,4 +1,3 @@
-# Maintainer: Stephen Smith <stephen304@gmail.com>
 pkgname=lemonbar-ml-git
 _pkgname=bar
 pkgver=269.00a3fe6
