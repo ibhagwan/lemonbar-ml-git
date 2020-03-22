@@ -1,6 +1,6 @@
 pkgname=lemonbar-ml-git
 _pkgname=bar
-pkgver=269.00a3fe6
+pkgver=273.d5d2df4
 pkgrel=1
 pkgdesc="A lightweight xcb based bar with ported xft and multiline support."
 arch=('i686' 'x86_64')

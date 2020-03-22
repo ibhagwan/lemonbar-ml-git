@@ -1,6 +1,6 @@
 pkgbase = lemonbar-ml-git
 	pkgdesc = A lightweight xcb based bar with ported xft and multiline support.
-	pkgver = 269.00a3fe6
+	pkgver = 270.00a3fe6
 	pkgrel = 1
 	url = https://github.com/ibhagwan/bar
 	arch = i686
